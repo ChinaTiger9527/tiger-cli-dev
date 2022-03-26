@@ -1,0 +1,22 @@
+{
+  "name": "@tiger-cli-dev/utils",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Tiger9527 <ChinaTiger9527@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
