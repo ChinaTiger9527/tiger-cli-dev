@@ -1,5 +1,5 @@
 {
-  "name": "tiger-cli-dev",
+  "name": "tiger-cli",
   "version": "1.0.0",
   "description": "tiger-cli dev",
   "main": "index.js",
